@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.btpccontroller.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.btpccontroller.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-main-35:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-merged_res-33:/drawable_badge_background.xml.flat",
+        "source": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-main-35:/drawable/badge_background.xml"
+    },
+    {
+        "merged": "com.btpccontroller.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.btpccontroller.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-merged_res-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/pixel/.gradle/daemon/8.2/com.btpccontroller.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
