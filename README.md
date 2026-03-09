@@ -6,6 +6,10 @@ Ever wanted to control your PC from across the room? Or prank a friend by typing
 
 ---
 
+<div align="center">
+  <img src="https://media.tenor.com/sYekiN-q12AAAAAm/trollyou-troll-dance.webp" width="400" alt="Troll you dance meme">
+</div>
+
 ## What it does
 
 - Pairs with your device over **Bluetooth HID** (the same protocol real keyboards use)
@@ -31,3 +35,4 @@ Ever wanted to control your PC from across the room? Or prank a friend by typing
 ---
 
 Built with Kotlin using the Android Bluetooth HID profile.
+
