@@ -7,7 +7,9 @@ Ever wanted to control your PC from across the room? Or prank a friend by typing
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/sYekiN-q12AAAAAm/trollyou-troll-dance.webp" width="400" alt="Troll you dance meme">
+  <img src="https://gifdb.com/images/high/comic-troll-face-and-rage-face-8twcdu1ymk06327y.gif" 
+       alt="Troll face meets rage face comic animation" 
+       width="400">
 </div>
 
 ## What it does
@@ -35,4 +37,5 @@ Ever wanted to control your PC from across the room? Or prank a friend by typing
 ---
 
 Built with Kotlin using the Android Bluetooth HID profile.
+
 
