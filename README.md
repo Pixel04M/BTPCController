@@ -35,6 +35,7 @@ Ever wanted to control your PC from across the room? Or prank a friend by typing
 - A target device with Bluetooth enabled and discoverable
 
 ---
+Download link : https://github.com/Pixel04M/BTPCController/releases/tag/troll
 
 Built with Kotlin using the Android Bluetooth HID profile.
 
